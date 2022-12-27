@@ -1,2 +1,5 @@
-package java8.lambdaExpressions;public class LambdaExpressions {
+package java8.lambdaExpressions;
+
+public class LambdaExpressions {
+
 }
